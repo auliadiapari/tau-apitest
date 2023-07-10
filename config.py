@@ -1,0 +1,1 @@
+BASE_URI= 'https://0.0.0.0:5000/api/people'
